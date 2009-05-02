@@ -11,7 +11,7 @@ module Typorelatedposts
 
     html = '<div id="related">'
 #    html += '<h2>À lire également</h2>'
-    html += '<h2>Read also</h2>'
+#    html += '<h2>Read also</h2>'
 #    html += '<p>Si cet article vous a intéressé, vous pouvez poursuivre votre lecture avec ces billets similaires :</p>' 
     html += '<p>If this article has interested you, we suggest you read these related posts:</p>'
     html += '<ul>'
